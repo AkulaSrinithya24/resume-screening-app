@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+pdfplumber
+nltk
+matplotlib
+seaborn
+plotly
+PyPDF2
+sentence-transformers
+wordcloud
+torch   
